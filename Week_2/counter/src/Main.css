@@ -31,12 +31,20 @@ button {
    text-align: center;
 }
 
-.counter-display {
+.circle {
     border: 1px solid darkcyan;
     background-color: aqua;
     height: 80px;
     width: 80px;
     border-radius: 50%;
     padding: 150px;
+}
+
+.odd {
+    background-color: blue;
+}
+
+.even {
+    background-color: rgb(226, 89, 15);
 }
 
